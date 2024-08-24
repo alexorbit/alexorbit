@@ -1,17 +1,30 @@
 
-### WorkaHolic Coder 
+
+#### Wakatime stats
+📊 Total development breakdown
+<!--START_SECTION:waka-->
+
 [![wakatime](https://wakatime.com/badge/user/bb4fc891-2584-4c92-b50b-7c1c2a21a973.svg)](https://wakatime.com/@bb4fc891-2584-4c92-b50b-7c1c2a21a973)
-<!--
-**alexorbit/alexorbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Alexorbit
+
+## GitHub stats
+<div>
+<img src="https://github-profile-trophy.vercel.app/?username=alexorbit&theme=flat" alt="github stats" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexorbit&theme=flat" />
+</div>
+
+
+
+<!--END_SECTION:waka-->
+## Contact
+<p>
+<a href="https://www.linkedin.com/in/alexorbit">
+		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:alexorbit@gmail.com">
+   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</a>
+</p>
