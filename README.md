@@ -1,18 +1,21 @@
 
 
 #### Wakatime stats
+[![wakatime](https://wakatime.com/badge/user/bb4fc891-2584-4c92-b50b-7c1c2a21a973.svg)](https://wakatime.com/@bb4fc891-2584-4c92-b50b-7c1c2a21a973)
+
 📊 Total development breakdown
 <!--START_SECTION:waka-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexorbit&theme=flat" />
 
-[![wakatime](https://wakatime.com/badge/user/bb4fc891-2584-4c92-b50b-7c1c2a21a973.svg)](https://wakatime.com/@bb4fc891-2584-4c92-b50b-7c1c2a21a973)
+
 
 
 # Alexorbit
 
 ## GitHub stats
 <div>
-<img src="https://github-profile-trophy.vercel.app/?username=alexorbit&theme=flat" alt="github stats" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexorbit&theme=flat" />
+	
+<img src="https://github-profile-trophy.vercel.app/?username=alexorbit&theme=oldie&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15" alt="github stats" /> 
 </div>
 
 
