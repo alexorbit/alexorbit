@@ -2,14 +2,17 @@
 [![wakatime](https://wakatime.com/badge/user/bb4fc891-2584-4c92-b50b-7c1c2a21a973.svg)](https://wakatime.com/@bb4fc891-2584-4c92-b50b-7c1c2a21a973)  
 ---
 
+[![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alexorbit)]
+
+
 📊 Total development breakdown
 
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexorbit&theme=flat" />
 	
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexorbit)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
+
 
 ## GitHub stats
 <div>
@@ -22,8 +25,9 @@
 <!--END_SECTION:waka-->
 ## Contact
 <p>
+ 
 <a href="https://www.linkedin.com/in/alexorbit">
-		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:alexorbit@gmail.com">
    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
