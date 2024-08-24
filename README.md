@@ -1,5 +1,6 @@
-## Hi there 👋
 
+### WorkaHolic Coder 
+[![wakatime](https://wakatime.com/badge/user/bb4fc891-2584-4c92-b50b-7c1c2a21a973.svg)](https://wakatime.com/@bb4fc891-2584-4c92-b50b-7c1c2a21a973)
 <!--
 **alexorbit/alexorbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
