@@ -2,8 +2,6 @@
 [![wakatime](https://wakatime.com/badge/user/bb4fc891-2584-4c92-b50b-7c1c2a21a973.svg)](https://wakatime.com/@bb4fc891-2584-4c92-b50b-7c1c2a21a973)  
 ---
 
-[![CodersRank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alexorbit)]
-
 
 📊 Total development breakdown
 
