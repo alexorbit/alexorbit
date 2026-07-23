@@ -1,8 +1,6 @@
 
 # Alex Freire de Aquino
 
-## HEADLINE
-
 Principal Software Engineer | Software Architect | Distributed Systems | Backend Engineering | AI Systems | Blockchain | Node.js | TypeScript | Cloud Architecture
 
 ---
@@ -362,14 +360,6 @@ DevOps
 SaaS
 
 Fintech
-
----
-
-# EDUCATION
-
-(Remover a entrada da FIAP.)
-
-Adicione apenas formações concluídas, certificações relevantes ou deixe a seção vazia até haver uma credencial alinhada ao perfil.
 
 ---
 
