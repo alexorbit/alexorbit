@@ -2,7 +2,7 @@
 
 From the first sketch to production.
 
-Software Architecture • Backend • AI • Cloud • Blockchain
+Software Architecture • Infrastructure • Backend • AI • Cloud • Blockchain
 
 Most are private. Some are open.
 
