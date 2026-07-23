@@ -54,7 +54,7 @@ Rust • RocksDB
 
 Docker/Podman • Linux • CI/CD
 
-OpenAI • GLM • OpenCode • Kimi • (until next epiphany)  
+OpenAI • GLM • OpenCode • Kimi • (until the next rabbit hole)  
 
 Ethereum • Solidity • Web3 • Custom BlockChain
 
