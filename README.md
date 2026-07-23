@@ -1,4 +1,4 @@
-# I build products.
+# I build systems.
 
 From the first sketch to production.
 
