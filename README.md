@@ -14,8 +14,6 @@ All taught me something.
 
 Building software since 1997
 
-And Still Learning.
-
 ---
 
 ## What I do
