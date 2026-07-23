@@ -12,7 +12,7 @@ Companies depend on them.
 
 All taught me something.
 
-Building software since 1997. 
+Building software since 1997, And Still Learning.
 
 ---
 
@@ -50,13 +50,13 @@ PostgreSQL • Supabase • Redis
 
 React • Next.js
 
-Rust • Python
+Rust • RocksDB
 
 Docker/Podman • Linux • CI/CD
 
 OpenAI • GLM • OpenCode • Kimi • MCP
 
-Ethereum • Solidity • Web3 • Legacy Chain (C+/Python)
+Ethereum • Solidity • Web3 • Custom BlockChain
 
 ---
 
@@ -68,8 +68,9 @@ Most aren't.
 Here's what I can share.
 
 - WordPressKing
-- PeopleHands
-- Open source projects
+- Apyrey
+- OpenPS3
+- Amaná 
 
 ---
 
