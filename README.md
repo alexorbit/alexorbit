@@ -12,7 +12,9 @@ Companies depend on them.
 
 All taught me something.
 
-Building software since 1997, And Still Learning.
+Building software since 1997
+
+And Still Learning.
 
 ---
 
