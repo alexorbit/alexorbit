@@ -1,4 +1,3 @@
-# LINKEDIN_PROFILE.md
 
 # Alex Freire de Aquino
 
